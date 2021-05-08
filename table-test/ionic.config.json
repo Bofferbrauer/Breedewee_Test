@@ -1,0 +1,7 @@
+{
+  "name": "table-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
